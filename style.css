@@ -278,7 +278,7 @@ a:active {
   list-style: none;
   display: flex; 
   text-align: justify;
-  margin-top: 65%;
+  margin-top: 45%;
   margin-bottom: 2%;
   margin-left: 8.5%;
   margin-right: 8.5%;
@@ -294,7 +294,7 @@ a:active {
 }
 /* Projets */
 .portfolio {
-  margin-top: -5%;
+  margin-top: 20%;
   margin-bottom: 3rem;
 }
 .portfolio h2 {
