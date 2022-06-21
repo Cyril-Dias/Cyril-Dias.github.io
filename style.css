@@ -150,7 +150,7 @@ header p {
   font-size: 0.7rem;
   line-height: 1.5rem;
 }
-/* H2.Parcours */
+/* Parcours */
 .container3 {
   grid-area: 3;
   display: grid;
@@ -214,6 +214,7 @@ header p {
 }
 .projets {
   grid-area: projets;
+  list-style-type: circle;
 }
 /* pied de page */
 footer {
