@@ -391,12 +391,13 @@ footer p {
   grid-area: 2;
   display: grid;
   grid-template-columns: 12vh 2fr 1fr 12vh;
-  grid-template-rows: 8vh auto auto auto;
+  grid-template-rows: 8vh auto auto auto auto;
   grid-template-areas:
     ". . . ."
     ". propos propos ."
     ". qui passions ."
     ". qui passions .";
+    ". recherche recherche ."
   gap: 0px;
   width: 100vw;
   margin: 0;
