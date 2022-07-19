@@ -52,7 +52,7 @@ h4 {
 .container {
   grid-area: 1;
   display: grid;
-  grid-template-columns: 2vh 1fr 3vh;
+  grid-template-columns: 3vh 1fr 3vh;
   grid-template-rows: 20vh 1fr 5vh;
   grid-template-areas:
     "nav nav nav"
