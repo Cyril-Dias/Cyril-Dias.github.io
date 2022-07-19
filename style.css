@@ -118,11 +118,12 @@ header p {
   grid-area: 2;
   display: grid;
   grid-template-columns: 2vh 1fr 2vh;
-  grid-template-rows: 0.4fr 0.6fr 0.2fr 5vh;
+  grid-template-rows: 0.4fr 0.6fr 0.2fr 0.2fr 5vh;
   grid-template-areas:
     ". propos ."
     ". qui ."
     ". passions ."
+    ". recherche ."
     ". . .";
   gap: 0px;
   width: 100vw;
